@@ -33,12 +33,28 @@ I'm a **Big Data Analytics student** who enjoys the space where **software devel
 
 <div align="center">
 
-| | |
-|:--|:--|
-| **Languages** | <img src="https://skillicons.dev/icons?i=cs,py" alt="C#, Python" /> &nbsp; **SQL** |
-| **Backend & Data** | <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" /> &nbsp; Entity Framework Core · SQL Server · Data Analysis · Machine Learning |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Tools" /> |
-| **Web** | <img src="https://skillicons.dev/icons?i=nextjs,vercel" alt="Next.js, Vercel" /> |
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=cs,py" alt="C#, Python" /><br/>
+<img src="https://img.shields.io/badge/SQL-0f2027?style=for-the-badge" alt="SQL" />
+
+<br/>
+
+**Backend & Data**<br/>
+<img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" /><br/>
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge" alt="EF Core" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Data%20Analysis-203a43?style=for-the-badge" alt="Data Analysis" />
+<img src="https://img.shields.io/badge/Machine%20Learning-2c5364?style=for-the-badge" alt="Machine Learning" />
+
+<br/>
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Tools" />
+
+<br/>
+
+**Web**<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,vercel" alt="Next.js, Vercel" />
 
 </div>
 
